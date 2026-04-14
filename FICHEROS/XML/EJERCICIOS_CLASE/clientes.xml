@@ -1,0 +1,7 @@
+<clientes>
+    <cliente>
+        <dni>12345678A</dni>
+        <nombre>Juan</nombre>
+        <email>juan@email.com</email>
+    </cliente>
+</clientes>

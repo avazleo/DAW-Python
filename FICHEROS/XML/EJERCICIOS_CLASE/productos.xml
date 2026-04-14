@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<productos>
+    <producto>
+        <nombre>Teclado</nombre>
+        <precio>20</precio>
+    </producto>
+    <producto>
+        <nombre>Ratón</nombre>
+        <precio>11.00</precio>
+    </producto>
+</productos>

@@ -1,0 +1,8 @@
+<tienda>
+    <producto stock="0">
+        <nombre>Monitor</nombre>
+    </producto>
+    <producto stock="5">
+        <nombre>Impresora</nombre>
+    </producto>
+</tienda>

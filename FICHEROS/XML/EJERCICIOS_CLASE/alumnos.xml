@@ -1,0 +1,10 @@
+<alumnos>
+    <alumno>
+        <nombre>Ana</nombre>
+        <edad>20</edad>
+    </alumno>
+    <alumno>
+        <nombre>Luis</nombre>
+        <edad>22</edad>
+    </alumno>
+</alumnos>
